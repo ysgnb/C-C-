@@ -1,0 +1,5 @@
+﻿  源.cpp
+C:\program_design\贪吃蛇\尝试用链表的改进版__也许会尝试多几种模式\源.cpp(326,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\program_design\贪吃蛇\尝试用链表的改进版__也许会尝试多几种模式\源.cpp(345,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(1010,5): error MSB6006: “link.exe”已退出，代码为 1104。
+LINK : fatal error LNK1104: 无法打开文件“C:\program_design\贪吃蛇\Release\尝试用链表的改进版__也许会尝试多几种模式.exe”

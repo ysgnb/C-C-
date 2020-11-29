@@ -1,0 +1,7 @@
+﻿  源.cpp
+C:\program_design\贪吃蛇\尝试用链表的改进版__也许会尝试多几种模式\源.cpp(335,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\program_design\贪吃蛇\尝试用链表的改进版__也许会尝试多几种模式\源.cpp(354,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\program_design\贪吃蛇\尝试用链表的改进版__也许会尝试多几种模式\源.cpp(373,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\program_design\贪吃蛇\尝试用链表的改进版__也许会尝试多几种模式\源.cpp(475,9): warning C4129: “ ”: 不可识别的字符转义序列
+C:\program_design\贪吃蛇\尝试用链表的改进版__也许会尝试多几种模式\源.cpp(556,2): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  尝试用链表的改进版__也许会尝试多几种模式.vcxproj -> C:\program_design\贪吃蛇\Debug\尝试用链表的改进版__也许会尝试多几种模式.exe
